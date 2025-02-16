@@ -73,5 +73,3 @@ NumPy
 Pandas
 
 Matplotlib
-
-Any other necessary dependencies
